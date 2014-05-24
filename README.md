@@ -17,7 +17,7 @@ Demo
 live
 ------
 
-[Variable Example](http://angularjs-ii.herokuapp.com/products-e2e.html)
+[Google Plus Signi](https://demo-gpa.herokuapp.com/products.html)
 
 local
 ------
