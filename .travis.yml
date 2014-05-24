@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- 0.10
+deploy:
+  provider: heroku
+  app: demo-gpa
+  strategy: git
+  api_key:
+    secure: Emk8mbZui0U05LMPWxWY8PTTQ5ypzO1A4pJlcWSj1lZShyHdzZ5vSlm3tTQcyxJZgOJvyNozLFrGClTUmu0HzskoUfpWDrbzzg5XT7FHDj+5/aIKN+noTKSWt0dyXwmF89JqTEvAPxhZe7eAFwgtnWd4RD0WAShdNB/oxdWYSyU=
+before_deploy:
+- if [[ -a .git/shallow ]]; then git fetch --unshallow; fi
