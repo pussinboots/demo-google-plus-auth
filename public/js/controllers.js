@@ -12,6 +12,6 @@ function ConnectCtrl($scope, ServiceA, ServiceB) {
 			$scope.$digest()
 		  });
 		});
-		console.log('hallo ');
+		console.log('success full login');
 	});
 }
