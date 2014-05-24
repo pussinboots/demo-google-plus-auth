@@ -27,8 +27,6 @@ Two ways to run the demo app local one with play or second with nodejs.
 Dependencies
 * play 2.2.3 (optional)
 * nodejs 0.10.28
-* (karma-test runner)[http://karma-runner.github.io/0.12/intro/installation.html]
-
 Start it with play
 
     play run
