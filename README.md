@@ -1,5 +1,10 @@
 demo-google-plus-auth
 ==================
+[![Build Status](https://travis-ci.org/pussinboots/demo-google-plus-auth.svg?branch=master)](https://travis-ci.org/pussinboots/demo-google-plus-auth)
+[![Dependencies](https://david-dm.org/pussinboots/demo-google-plus-auth.png)](https://david-dm.org/pussinboots/demo-google-plus-auth)
+[![heroku](http://heroku-badge.heroku.com/?app=demo-google-plus-auth)](https://demo-google-plus-auth.herokuapp.com/products.html)
+
+ 
 
 Simple angularjs application that use [angular-directive.g-signin](https://github.com/sirkitree/angular-directive.g-signin#example) to include the google plus signin button. After a succesful login the basic profile information are called and the email and id are displayed on the Signin Page. It is just a example integration of google plus signin and fetch the basic profile. Its based on client side authentification no server needed. Can be used as an working example for angularjs and google plus signin integration.
 
