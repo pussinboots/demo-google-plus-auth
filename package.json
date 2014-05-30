@@ -1,5 +1,5 @@
 {
-  "name": "angularjs-crypto",
+  "name": "google-plus-auth",
   "version": "0.0.1",
   "dependencies": {
     "connect": "~2.17.1"
