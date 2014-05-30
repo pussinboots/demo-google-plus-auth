@@ -2,7 +2,7 @@ demo-google-plus-auth
 ==================
 [![Build Status](https://travis-ci.org/pussinboots/demo-google-plus-auth.svg?branch=master)](https://travis-ci.org/pussinboots/demo-google-plus-auth)
 [![Dependencies](https://david-dm.org/pussinboots/demo-google-plus-auth.png)](https://david-dm.org/pussinboots/demo-google-plus-auth)
-[![heroku](http://heroku-badge.heroku.com/?app=demo-google-plus-auth)](https://demo-google-plus-auth.herokuapp.com/products.html)
+[![heroku](http://heroku-badge.heroku.com/?app=demo-gpa)](https://demo-gpa.herokuapp.com/products.html)
 
  
 
